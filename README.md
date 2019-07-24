@@ -1,4 +1,5 @@
-# An jypter notebook based introduction to the particle-in-cell algorithm
+# Introduction to the particle-in-cell algorithm
+### a jupyter notebook based tutorial
 
 ## Purpose
 The primary purpose of this repository is to provide an introduction to the rudimentary particle-in-cell algorithm. 
